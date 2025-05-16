@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Exemplo de Vídeo</title>
+</head>
+<body>
+<h1>Reproduzindo um vídeo</h1>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zK8lc_OQ1Hc?si=-W6j6sc1zWVsPtke" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ <p>3 Palavrinhas</p>
+</body>
+</html>
